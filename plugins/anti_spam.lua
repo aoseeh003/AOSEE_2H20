@@ -1,6 +1,6 @@
---[[ BY faeder
-     BY @xXxDev_iqxXx
-     CH > @Dev_faed
+--[[ BY مہسہتہر أوسہ
+     BY @AOSEE_TH
+     CH > @AOSEE_THT
 --]]
 kicktable = {}
 
