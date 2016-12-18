@@ -11,11 +11,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 ➿- وراهه 😍👇
 
-git clone https://github.com/aoseeh003/AOSEE_2H20.git
+git clone https://github.com/aoseeh003/aoooose.git
 
 🚼- وراهه😍👇
 
-cd AOSEE_2H20
+cd aoooose
 
 ☢- وراهه😍👇
 
