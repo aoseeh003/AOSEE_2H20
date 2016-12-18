@@ -5,7 +5,7 @@ NONVOLUNTARYCHECK=0
 VOLUNTARY=1
 VOLUNTARYCHECK=0
 I=1
-BOT=Feader # You can put here other bots. Also you can change it to run more than one bot in the same server.
+BOT=AOSEE # You can put here other bots. Also you can change it to run more than one bot in the same server.
 RELOADTIME=5  # Time between checking cpu calls of the cli process. Set the value high if your bot does not receive lots of messages.
 
 
@@ -34,7 +34,7 @@ cat << EOF
  
 EOF
 echo -e "               \e[100m                TSHAKE script            \e[00;37;40m"
-echo -e "               \e[01;34m              CH > @lTSHAKEl_CH          \e[00;37;40m"
+echo -e "               \e[01;34m              CH > @AOSEE_THT          \e[00;37;40m"
 echo ""
 cat << EOF
  $f1   _____              _           
@@ -60,12 +60,12 @@ sleep 0.5
 
 
 echo ""
-echo -e "\033[38;5;208m             CH  : @lTSHAKEl_CH                               \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @lIMyIl                  \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @li_XxX_il                      \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @h_k_a                       \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @Aram_omar22                                \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @IXX_I_XXI                                \033[0;00m"
+echo -e "\033[38;5;208m             CH  : @AOSEE_TH                              \033[0;00m"
+echo -e "\033[38;5;208m             DEV : @AOSEE_TH                 \033[0;00m"
+echo -e "\033[38;5;208m             DEV : @AOSEE_TH                      \033[0;00m"
+echo -e "\033[38;5;208m             DEV : @AOSEE_TH                       \033[0;00m"
+echo -e "\033[38;5;208m             DEV : @AOSEE_TH                                \033[0;00m"
+echo -e "\033[38;5;208m             DEV : @AOSEE_TH                                \033[0;00m"
 
 sleep 1.5
 echo -e "$bld$f4 CHECKING PROCESSES...$rst"
@@ -193,8 +193,8 @@ cat << EOF
  $f1  |_|  \___|\__,_|\__,_|\___|_|   
  
 EOF
-echo -e "                \e[100m                Feader script           \e[00;37;40m"
-echo -e "               \e[01;34m              CH > @ch_faed  \e[00;37;40m"
+echo -e "                \e[100m                AOSEE script           \e[00;37;40m"
+echo -e "               \e[01;34m              CH > @AOSEE_THT  \e[00;37;40m"
 echo ""
 cat << EOF
  $f1   _____              _           
@@ -220,10 +220,10 @@ sleep 0.5
 
 
 echo ""
-echo -e "\033[38;5;208m       CH  : @ch_faed                                    \033[0;00m"
-echo -e "\033[38;5;208m       DEV : @X_x_56_GaHaNaM_56_x_X                          \033[0;00m"
-echo -e "\033[38;5;208m       DEV : @hamapaiz                        \033[0;00m"
-echo -e "\033[38;5;208m       DEV : @xXxDev_iqxXx   \033[0;00m"
+echo -e "\033[38;5;208m       CH  : @AOSEE_TH                                    \033[0;00m"
+echo -e "\033[38;5;208m       DEV :@AOSEE_TH                          \033[0;00m"
+echo -e "\033[38;5;208m       DEV :@AOSEE_TH                        \033[0;00m"
+echo -e "\033[38;5;208m       DEV :@AOSEE_TH  \033[0;00m"
 
 # Starting preliminar setup
 sleep 1.5
@@ -505,10 +505,10 @@ while getopts ":tsTSih" opt; do
 	echo "steady.sh bash script v1.2 iicc 2016 DBTeam" >&2
 	echo ""
 	echo -e "\e[0m"
-echo -e "\033[38;5;208m       CH  : @ch_faed                                    \033[0;00m"
-echo -e "\033[38;5;208m       DEV : @X_x_56_GaHaNaM_56_x_X                          \033[0;00m"
-echo -e "\033[38;5;208m       DEV : @hamapaiz                        \033[0;00m"
-echo -e "\033[38;5;208m       DEV : @xXxDev_iqxXx   \033[0;00m"
+echo -e "\033[38;5;208m       CH  : @AOSEE_TH                                \033[0;00m"
+echo -e "\033[38;5;208m       DEV :@AOSEE_TH                          \033[0;00m"
+echo -e "\033[38;5;208m       DEV :@AOSEE_TH                       \033[0;00m"
+echo -e "\033[38;5;208m       DEV :@AOSEE_TH  \033[0;00m"
 	exit 1
       ;;
 	h)
