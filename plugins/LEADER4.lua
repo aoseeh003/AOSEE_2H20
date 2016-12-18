@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                                ▀▄ ▄▀ 
-▀▄ ▄▀       BY ANWAR     @xXxDev_iqxXx          ▀▄ ▄▀ 
-▀▄ ▄▀ BY MOHAMMED LEADER  @Hamapaiz          ▀▄ ▄▀          
-▀▄ ▄▀ BY         CANEALL     @Dev_faed           ▀▄ ▄▀   
+▀▄ ▄▀       BY ANWAR     @AOSEE_TH          ▀▄ ▄▀ 
+▀▄ ▄▀ BY MOHAMMED LEADER  @AOSEE_TH          ▀▄ ▄▀          
+▀▄ ▄▀ BY         CANEALL     @AOSEE_THT          ▀▄ ▄▀   
 ▀▄ ▄▀            مساعدة 1                 ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -31,10 +31,10 @@ local S = [[
 🌄صوره : ↩ (لتحويل الملصق الى صوره)
 🌋ملصق : ↩ (لتحويل الصوره الى ملصق)
 〰➰〰➰〰➰〰➰〰➰
-💯-Đєⱴ💀 : @xXxDev_iqxXx
-💯-Đєⱴ💀 : @hamapaiz
-💯-Đєⱴ💀 : @X_x_56_GaHaNaM_56_x_X
-💯-Đєⱴ💀 : @D_e_v_faeder_bot
+💯-Đєⱴ💀 : @AOSEE_TH
+ 
+💯-Đєⱴ💀 :https://telegram.me/joinchat/EFhVND_d8QV4yhtZTa7Gpg
+
  ]]
 reply_msg(reply_id, S, ok_cb, false) 
 end
