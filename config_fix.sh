@@ -1,5 +1,5 @@
 #!/bin/bash
-#Script to fix config.lua By @iicc1
+#Script to fix config.lua By @AOSEE_TH
 #DBTeam
 
 CONF=data/config.lua
