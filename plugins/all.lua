@@ -145,8 +145,8 @@ return {
   run = run
 }
 end
--- BY faeder
+-- BY مہسہتہر أوسہ
 
- --    BY @xXxDev_iqxXx
+ --    BY @AOSEE_TH
      
-   --  CH > @Dev_faed
+   --  CH > @AOSEE_THT
