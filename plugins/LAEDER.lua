@@ -2,7 +2,7 @@ do
 
 function run(msg, matches) 
   return [[ 
-✋Ⱳاوامر سورس 🚫┆فايـﮩٰٰہـدر🔱̴
+✋Ⱳاوامر سورس مہسہتہر أوسہ
 🃏〰〰〰〰👑〰〰〰〰〰🃏
 
  ♻ اوامر  ═╬═ ᗨ   ♻
@@ -17,13 +17,11 @@ function run(msg, matches)
 
 👑 م المطور : لعرض اوامر المطور👑
 
-💳قناه السورس 💳  @Dev_faed
+💳قناه السورس 💳  @AOSEE_THT
 
 🔰〰〰〰〰〰المطور〰〰〰〰🔰
-♻-Đєⱴ💀 @xXxDev_iqxXx
-♻Đєⱴ 😎 @hamapaiz
-♻Đєⱴ 📛 @X_x_56_GaHaNaM_56_x_X
-💥 Đєⱴ🔥 @D_e_v_faeder_bot
+♻-Đєⱴ💀 @AOSEE_TH
+
 ]] 
 
 end 
