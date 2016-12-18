@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY faeder                         ▀▄ ▄▀ 
-▀▄ ▄▀     Dev faeder     (@xXxDev_iqxXx    ▀▄ ▄▀ 
-▀▄ ▄▀     ChannelDev     (@dev_faed)       ▀▄ ▄▀ 
+▀▄ ▄▀    BY   مہسہتہر أوسہ                       ▀▄ ▄▀ 
+▀▄ ▄▀     Dev faeder     (@AOSEE_TH    ▀▄ ▄▀ 
+▀▄ ▄▀     ChannelDev     (@AOSEE_THT)       ▀▄ ▄▀ 
 ▀▄ ▄▀ Making the file by Memo              ▀▄ ▄▀   
 ▀▄ ▄▀ A word against armies :كلمه ضد الجيوش ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
@@ -78,4 +78,4 @@ return {
 }
 
 end
--- By Dev Memo (@xXxDev_iqxXx)
+-- By Dev اوس (@AOSEE_TH)
