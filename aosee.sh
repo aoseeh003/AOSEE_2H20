@@ -33,7 +33,7 @@ cat << EOF
   
  
 EOF
-echo -e "               \e[100m                TSHAKE script            \e[00;37;40m"
+echo -e "               \e[100m                AOSEE script            \e[00;37;40m"
 echo -e "               \e[01;34m              CH > @AOSEE_THT          \e[00;37;40m"
 echo ""
 cat << EOF
