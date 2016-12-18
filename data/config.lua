@@ -1,5 +1,5 @@
 do local _ = {
-  about_text = "▫️Welcome to TH3BOSS V7 For more information Subscribe to the channel @llDEV1lln\n https://github.com/moody2020/TH3BOSS\n\n▫️Dev @TH3BOSS\n\n▫️ Dev Bot @ll60Kllbot\n\n ▫️channel@ llDEV1ll ",
+  about_text = "▫️Welcome to AOSEE_TH V7 For more information Subscribe to the channel @AOSEE_THTn\n https://github.com/aoseeh003/aoooose\n\n▫️Dev @AOSEE_TH\n\n▫️ Dev Bot @@AOSEE_THT\n\n ▫️channel@AOSEE_THT ",
   enabled_plugins = {
     "badword",
     "admin",
@@ -73,7 +73,7 @@ do local _ = {
   },
   sudo_users = {
     274224436,
-    298490683,
+   
     
   }
 }
