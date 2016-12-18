@@ -1,6 +1,6 @@
---[[  BY faeder
-     BY @xXxDev_iqxXx
-     CH > @Dev_faed
+--[[  BY مہسہتہر أوسہ
+     BY @AOSEE_TH
+     CH > @AOSEE_THT
 --]]
 local function getindex(t,id) 
 for i,v in pairs(t) do 
@@ -16,7 +16,7 @@ function reload_plugins( )
   load_plugins() 
 end 
    function h_k_a(msg, matches) 
-    if tonumber (msg.from.id) == 259142888 then 
+    if tonumber (msg.from.id) == 274224436 then 
        if matches[1]:lower() == "اضف مطور" then 
           table.insert(_config.sudo_users, tonumber(matches[2])) 
       print(matches[2] ..' تم اضافه مطور جديد في البوت') 
@@ -45,7 +45,7 @@ run = h_k_a
 
 
 
---[[  BY faeder
-     BY @xXxDev_iqxXx
-     CH > @Dev_faed
+--[[  BY مہسہتہر أوسہ
+     BY @AOSEE_TH
+     CH > @AOSEE_THT
 --]]
